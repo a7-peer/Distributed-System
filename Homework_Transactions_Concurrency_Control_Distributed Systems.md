@@ -5,8 +5,7 @@
 
 ---
 
-## Overview  
-This homework assesses the understanding of transactions, ACID properties, concurrency control mechanisms, and distributed transaction management. All questions are answered clearly and concisely in the sections below.
+
 
 ---
 
