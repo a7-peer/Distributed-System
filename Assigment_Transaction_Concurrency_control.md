@@ -1,6 +1,5 @@
 # Homework: Transactions and Concurrency Control in Distributed Systems  
-**Course:** Distributed Systems  
-**Professor:** Dardan Iseni  
+
 
 ---
 
